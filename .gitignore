@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+*.pt
+*.bin
+*.safetensors
+local_data/
+/content/
+.env

@@ -1,0 +1,31 @@
+review_id,human_verdict,human_note
+ee31906a-8ee5-4595-932f-ff6f1e55f4d3,not_noise,Keluhan login sesuai dengan rating rendah
+a63569c6-d865-4400-a15b-a4dc5e1ad74d,not_noise,Pujian transaksi sesuai dengan rating tinggi
+31852b20-b3ca-4ad9-9925-6727acfad1a8,not_noise,Tidak bisa mengunduh sesuai dengan rating rendah
+6491e1c7-2eaf-4660-b65b-2748aea2a371,not_noise,Permintaan perbaikan pembayaran sesuai dengan rating menengah
+76f55172-db8c-4510-9aa2-d2c94d6556da,not_noise,Keluhan notifikasi sesuai dengan rating menengah
+7575e7cd-8e2f-4579-ad1d-af003664466f,not_noise,Belum mendapat limit sesuai dengan rating rendah
+a10b05c2-9e1c-4c25-9195-bf0b2f05c4cb,not_noise,Pujian transfer sesuai dengan rating tinggi
+b2ebcf1f-878b-413f-bf1d-0c1001c66eb4,ambiguous,Teks terlalu singkat untuk menentukan kepuasan
+2e7053ad-22f7-4bf3-96bb-58eaf1be2a7e,ambiguous,Keluhan verifikasi tanpa penilaian jelas
+43d39cad-2f5d-4c5e-9d5a-f71628ee4572,not_noise,Pujian dan diskon sesuai dengan rating tinggi
+735853dd-6262-4173-98d1-d8c3ffe091be,not_noise,Keluhan driver sesuai dengan rating rendah
+4bd7f11a-2f13-459f-b6d9-fd6e0e6041ff,not_noise,Pujian transaksi sesuai dengan rating tinggi
+612ebb20-9e2a-4183-aae8-4181037633ba,not_noise,Keluhan pengajuan pinjaman sesuai dengan rating rendah
+cbebeca9-88d5-41ba-b343-536f323e82a1,not_noise,Keluhan driver sesuai dengan rating menengah
+85597dc4-d31e-44f8-bca6-3dc9b1009b51,not_noise,Keluhan checkout berat sesuai dengan rating menengah
+b01b8ec8-00b4-4a38-b96f-06b938e960d7,not_noise,Pujian aplikasi sesuai dengan rating tinggi
+792976d2-b39a-41c7-8e56-ee427eb3e546,not_noise,Keluhan aplikasi berat masih wajar dengan rating empat
+f54bf4c2-3153-4d22-bc08-dc0ff8b041c2,not_noise,Keluhan fitur sesuai dengan rating menengah
+d91568dd-4476-48f1-9cd7-c6aa0b77a482,noise,Keluhan kuat tidak sesuai dengan rating empat
+62c3395b-5813-4252-94f8-5f63909f23a2,ambiguous,Kekhawatiran penipuan belum disertai kejadian jelas
+9a0a6445-01f4-416e-a8e6-8751bedf64fb,not_noise,Masalah login sesuai dengan rating menengah
+b762aa1e-9d07-40de-993c-530071ed3965,noise,Pujian jelas bertentangan dengan rating satu
+6774262b-eb7f-40e4-af02-2ddcad585b55,noise,Tidak jadi mengunduh bertentangan dengan rating lima
+b1286f9f-e275-4c9e-a81f-c350fb226fcf,not_noise,Tidak bisa membeli sesuai dengan rating rendah
+534da382-c560-47fa-980d-cb32166e0717,noise,Keluhan voucher tidak sesuai dengan rating empat
+6858d1c6-c369-4560-a679-1e7fef9ac903,not_noise,Pujian kemudahan sesuai dengan rating tinggi
+04e5196a-aa98-40ce-ba4b-9c03e889d68e,not_noise,Keluhan driver sesuai dengan rating menengah
+979084da-d27c-43e9-8b75-da16e3cbcd4b,not_noise,Keluhan invoice sesuai dengan rating rendah
+1eacb374-002d-4b12-bf0e-b1039e544c94,noise,Pujian lancar bertentangan dengan rating dua
+765ad507-0c94-452f-85e3-885799d14404,noise,Pujian layanan bertentangan dengan rating satu

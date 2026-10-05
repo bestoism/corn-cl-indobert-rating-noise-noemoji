@@ -1,0 +1,101 @@
+review_id,human_verdict,human_note
+36ed0a08-053a-409c-a3d8-4e01c1320444,not_noise,Ungkapan terima kasih bernada positif
+914b43b1-b8b2-4552-8eb4-c2d84d1b8e8e,not_noise,Pujian fitur lain disertai keluhan pinjaman
+cbbeed27-5fce-4adc-9c65-0b0791b58d5a,not_noise,Keluhan layanan cukup berat untuk rating tengah
+979084da-d27c-43e9-8b75-da16e3cbcd4b,not_noise,Keluhan invoice dan layanan bantuan
+b762aa1e-9d07-40de-993c-530071ed3965,noise,Transaksi sangat mudah bertentangan dengan bintang satu
+6993a374-83da-4860-80bb-97420b6a09d8,noise,Keluhan penipuan jelas bertentangan dengan bintang lima
+612ebb20-9e2a-4183-aae8-4181037633ba,not_noise,Pengajuan pinjaman tidak membantu
+cbebeca9-88d5-41ba-b343-536f323e82a1,not_noise,Keluhan driver tidak merespons
+1733ecd5-eb95-45b7-9281-94cace3db46d,not_noise,Keluhan biaya dan keengganan memesan
+137df15a-f250-4c3e-8eed-101c12c820f3,ambiguous,Pujian aplikasi bercampur keluhan layanan
+2e7053ad-22f7-4bf3-96bb-58eaf1be2a7e,ambiguous,Persyaratan verifikasi disebut tanpa penilaian jelas
+745bbb85-d470-41f5-ba21-6e2c5a384458,noise,Kekecewaan berat bertentangan dengan bintang lima
+79776a71-ba5d-4ed9-b9bb-c4caa892cbe4,not_noise,Keluhan saldo terpotong dan pengembalian lambat
+4f3c9d1f-b4f9-4a33-9f22-1b036f7b95ca,noise,Keluhan pembayaran tanpa persetujuan bertentangan dengan bintang lima
+ee31906a-8ee5-4595-932f-ff6f1e55f4d3,not_noise,Keluhan error dan kesulitan login
+7575e7cd-8e2f-4579-ad1d-af003664466f,not_noise,Rating dua dinyatakan sementara karena belum mendapat limit
+76f55172-db8c-4510-9aa2-d2c94d6556da,not_noise,Keluhan notifikasi terlambat
+0fb0c8d0-ad23-416d-95f9-2106feed187b,not_noise,Keluhan hadiah yang tidak diterima
+551b5b4b-9e01-4a2d-8488-2a6391d77da7,ambiguous,Kesalahan kecil tanpa konteks yang jelas
+ac766dae-f026-4865-b4d5-c6c8e9b9cce1,noise,Menyenangkan bertentangan dengan bintang satu
+b3474c30-08c4-4c5d-ba44-7464d9f1a518,not_noise,Keluhan harga masih cocok dengan rating empat
+54c52257-9c2a-491e-af44-7e3039f048a4,not_noise,Keluhan gagal checkout berulang
+d7b75c81-76f3-4376-8708-54a33a45796c,noise,Masalah pembayaran paylater bertentangan dengan bintang lima
+0470ecbd-0c85-4b35-bd7b-217840d1fef8,not_noise,Keluhan potongan penjualan terlalu besar
+4a78b669-6249-4a10-83bf-30ccc97fb9b1,not_noise,Pujian kemudahan transaksi
+534da382-c560-47fa-980d-cb32166e0717,not_noise,Keluhan voucher tidak dapat digunakan
+632d59c8-4e68-414a-9cd6-39c9249506aa,noise,Keluhan gagal bayar dan respons buruk bertentangan
+1c799bb7-290c-4bab-8a51-ed3c25955639,not_noise,Keluhan driver tidak merespons
+d1f7d0bc-07d2-4aa2-af5b-eb3ff161852b,ambiguous,Teks tidak bermakna untuk menilai sentimen
+9e17d15b-d1dd-489c-a9bb-fa3b179e7271,not_noise,Ungkapan positif singkat
+31852b20-b3ca-4ad9-9925-6727acfad1a8,not_noise,Keluhan aplikasi tidak dapat diunduh
+2a8e6a75-6ae0-457f-9cbe-6d1735306a9e,not_noise,Keluhan pengalaman driver dengan nada campuran
+d83c7cf7-da01-4630-9054-3d318d8608a8,ambiguous,Permintaan jumlah ruby tanpa evaluasi aplikasi jelas
+93087e1c-43ae-40fe-83d3-85f6c94b0116,not_noise,Keluhan COD disertai kekecewaan
+a63569c6-d865-4400-a15b-a4dc5e1ad74d,not_noise,Pujian kemudahan transfer
+4383e432-fa3b-404f-97b5-9bf30092f19f,not_noise,Keluhan ongkos kirim mahal
+d91568dd-4476-48f1-9cd7-c6aa0b77a482,ambiguous,Keluhan waktu tunggu bercampur rincian layanan
+85597dc4-d31e-44f8-bca6-3dc9b1009b51,not_noise,Keluhan gagal memesan dan error berulang
+b2ebcf1f-878b-413f-bf1d-0c1001c66eb4,ambiguous,Menunggu datang tidak menunjukkan evaluasi jelas
+6b2feed9-b3d4-491e-92b8-fd9b13e5d872,not_noise,Kepuasan penuh
+3b280e31-e39a-4ca2-8a28-6e6784d38a1f,not_noise,Pujian kepraktisan
+71decd35-fce3-4048-a0b7-63dd932d83b9,not_noise,Keluhan tidak bisa mengajukan komplain
+cc1ebbc5-ab0f-420a-89a4-6b4c8a13e6c4,not_noise,Keluhan sistem sering bermasalah
+b01b8ec8-00b4-4a38-b96f-06b938e960d7,not_noise,Pujian kecocokan dan kegunaan produk
+5e5b088a-5223-4a9e-87f6-c8bcf8bbf4d8,not_noise,Keluhan login dan jaringan aplikasi
+6774262b-eb7f-40e4-af02-2ddcad585b55,noise,Tidak jadi mengunduh karena ulasan negatif bertentangan
+04e5196a-aa98-40ce-ba4b-9c03e889d68e,not_noise,Keluhan kesulitan mendapat driver
+38222f9f-ec0d-44c2-a848-77ca84898fe0,not_noise,Keluhan driver menolak uang kecil
+e519d5f0-19f3-4130-aa6f-4c751d70440a,not_noise,Keluhan pembayaran gagal saat memakai promo
+f73691f1-4981-440b-aae7-319ca79da40f,ambiguous,Menyebut fitur voucher tanpa konteks lengkap
+03f46cf8-37da-4786-89af-e59caeefb6bd,not_noise,Pujian tampilan dan performa terbaru
+62c3395b-5813-4252-94f8-5f63909f23a2,not_noise,Keluhan pilihan barang terbatas
+2524bc68-14a9-417f-8a91-047ffb3c1f67,noise,Keluhan game tidak bisa dibuka bertentangan dengan bintang lima
+d8ed1316-3774-4cad-9cfa-8e975e7eaaa1,noise,Keluhan akun diblokir dan tidak ada solusi
+b1286f9f-e275-4c9e-a81f-c350fb226fcf,not_noise,Keluhan tidak bisa membuat pesanan
+6209d240-dcdf-4700-bdbc-6cfc965de1e2,not_noise,Pujian kemudahan mencari makanan
+f1fc3eac-9a9e-428a-afcb-330520bd08a8,ambiguous,Teks terlalu pendek dan tidak bermakna
+b382c745-82f7-48e2-82c8-d15ccb8bff78,not_noise,Pujian kemudahan dan respons cepat
+765ad507-0c94-452f-85e3-885799d14404,noise,Pujian layanan bertentangan dengan bintang satu
+9c8a6c27-8103-466a-862c-06736bdd35b4,not_noise,Keluhan loading lama dan gagal membuka beranda
+f54bf4c2-3153-4d22-bc08-dc0ff8b041c2,not_noise,Keluhan fitur pesanan menyebabkan pembelian ganda
+3e579f7a-d2e7-4055-bfb7-f021c8e87de9,not_noise,Kepuasan cukup positif
+fe84181c-4a27-4890-bcc5-10f430b42804,not_noise,Keluhan sulit membuka aplikasi
+e3cbcfb3-413c-4b7d-812b-2462ec831038,noise,Kekecewaan berat bertentangan dengan bintang lima
+05c66960-17f9-4e14-b966-a082afa6f878,noise,Keluhan promo tidak berlaku bertentangan dengan bintang lima
+ffaf06a2-67ff-4a8e-beaf-2ae071ceb54a,not_noise,Keluhan fitur pinjaman tidak tersedia
+792976d2-b39a-41c7-8e56-ee427eb3e546,ambiguous,Aplikasi berat tanpa penjelasan dampak
+32537e34-a489-400a-8aba-bea48978196c,not_noise,Keluhan iklan promo dianggap tidak benar
+de8c2ce6-05e7-4591-b763-fc774056998e,not_noise,Pujian kemudahan transfer beda bank
+2efebd41-ba65-491b-b2df-969be748e0f5,not_noise,Pujian keramahan dan keamanan driver
+d705c08b-25e7-46db-a6c8-a4d9ffc196e4,not_noise,Keluhan penjual tidak mengirim barang
+4bd7f11a-2f13-459f-b6d9-fd6e0e6041ff,not_noise,Pujian kemudahan transaksi
+dc749608-f7e7-4cbb-9aec-fce8ead98532,not_noise,Memuji kegunaan fitur terbaru
+0e587d10-01d4-45dc-aa6f-11f1cd6ce8dc,ambiguous,Keluhan transaksi gagal tetapi rating cukup tinggi
+4e789b26-48b9-486d-93fe-eae3734e1801,not_noise,Keluhan proses pembelian obat resep
+7de6cf5b-25b3-4ed6-8244-94a835ff172f,not_noise,Keluhan navigasi dan aplikasi lambat
+ff521edc-9df4-4ad2-97e2-18a2a4ac55bc,not_noise,Pujian transaksi dan biaya admin gratis
+36765c9b-1e10-4af6-a73a-a3c1230900a1,not_noise,Pujian uang berbunga setiap hari
+6491e1c7-2eaf-4660-b65b-2748aea2a371,not_noise,Permintaan metode pembayaran lebih mudah
+735853dd-6262-4173-98d1-d8c3ffe091be,not_noise,Keluhan waktu mendapat driver makin lama
+03d59a78-a14f-445b-a555-56a74c57f9b9,not_noise,Pujian aplikasi disertai kekurangan fitur
+aa3478fa-0b1f-476b-8ec4-deaf19be144f,not_noise,Keluhan transfer pending dan layanan menyusahkan
+25fe6786-d2f5-4279-8ce6-94302aa8f8ae,noise,Keluhan respons CS bertentangan dengan bintang lima
+f6df7ae7-de96-44c5-846b-a64e4f834554,not_noise,Keluhan pencarian driver lambat dan terlambat
+51760a9c-245c-4319-929d-1fa891e4ea34,not_noise,Keluhan harga barang berubah dan mengecewakan
+43d39cad-2f5d-4c5e-9d5a-f71628ee4572,not_noise,Pujian banyak diskon
+1eacb374-002d-4b12-bf0e-b1039e544c94,noise,Pernyataan lancar terkendali bertentangan dengan bintang dua
+0650c863-64ac-469e-b456-be2bb102078d,noise,Pujian sangat baik kurang cocok dengan bintang tiga
+0756ad60-ebf3-4d2f-8566-f5177cf3ba3b,not_noise,Keluhan voucher kedaluwarsa saat pembayaran
+a92006c3-bb51-484c-b0a1-af8161567bd7,not_noise,Keluhan maintenance dan dugaan keamanan
+21f16ba0-05d7-404a-8278-f71e6854e323,not_noise,Pujian transfer gratis antar bank
+a10b05c2-9e1c-4c25-9195-bf0b2f05c4cb,not_noise,Pujian kemudahan transfer
+6858d1c6-c369-4560-a679-1e7fef9ac903,not_noise,Pujian aplikasi memudahkan
+0b38393a-798b-44a9-b1a3-df17bae2c79a,not_noise,Keluhan tampilan ramai dan COD tidak tersedia
+18cc0ea5-232b-4ea2-8649-b6f07a568981,ambiguous,Pernyataan umum tanpa evaluasi aplikasi jelas
+f56582ae-699b-4b3f-89d3-c499a1156b07,not_noise,Pujian aplikasi sangat membantu
+383099a7-a478-4b3a-aec2-81c74beeb1fb,not_noise,Saran peningkatan keamanan transaksi
+9a0a6445-01f4-416e-a8e6-8751bedf64fb,not_noise,Keluhan tiba-tiba tidak bisa login
+7a809c1c-eea5-4d34-b2eb-180f9f2095e2,not_noise,Keluhan gangguan aplikasi berulang
+615fc1b1-dbf3-45ed-9a43-b5edf9889c64,not_noise,Keluhan ongkir mahal dan promo gagal
